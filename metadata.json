@@ -1,0 +1,6 @@
+{
+  "name": "English Practice",
+  "description": "An interactive English reading and pronunciation practice app with real-time feedback, word-by-word analysis, problem word detection, and AI coaching.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
